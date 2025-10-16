@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.firstclass{
+    color: white;
+    background-color: black;
+}
+
+.secondclass{
+    background-color: yellow;
+}
+
+.fontstyle{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;    
+}
